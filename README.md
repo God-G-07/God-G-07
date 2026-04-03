@@ -85,15 +85,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=God-G-07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=God-G-07&theme=tokyonight" />
-</p>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=God-G-07&show_icons=true&theme=default&hide_border=true&cache_seconds=3600" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=100&section=footer"/>
@@ -103,10 +95,9 @@
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=God-G-07&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=God-G-07&theme=react-dark&hide_border=true" />
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=100&section=footer"/>
