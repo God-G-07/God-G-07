@@ -16,10 +16,7 @@
 🧠 Exploring Deep Learning concepts and applications
 🎯 Focused on improving model accuracy and practical performance
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=100&section=footer"/>
-</p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=120&section=footer&animation=fadeIn"/>
 
 ---
 ## ⚡ Tech Stack
