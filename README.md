@@ -83,19 +83,10 @@
 </p>
 
 
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=God-G-07&show_icons=true&theme=default&hide_border=true&cache_seconds=3600" />
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=100&section=footer"/>
-</p>
-
-
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=God-G-07&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutam-Baid-zzz&theme=react-dark&hide_border=true" />
 </p>
 
 
@@ -115,7 +106,7 @@
     <img height="35" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   &nbsp;&nbsp;🔗&nbsp;&nbsp;
-  <a href="https://github.com/God-G-07">
+  <a href="https://github.com/Goutam-Baid-zzz">
     <img height="35" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
