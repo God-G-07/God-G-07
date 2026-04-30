@@ -98,12 +98,6 @@
 </tr>
 </table>
 
-## 🧩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Goutam-Baid-zzz&theme=react-dark&hide_border=true" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0040FF&height=100&section=footer"/>
