@@ -29,7 +29,7 @@
 | 📈 Visualization & BI      | Matplotlib, Seaborn, Plotly, Power BI, Tableau                                                                      |
 | 🌐 Application Development | Streamlit, Flask                                                                                                    |
 | 🛢️ Databases              | MySQL, PostgreSQL                                                                                                   |
-| ☁️ Cloud & AWS             | AWS EC2, S3, IAM, SQS, SageMaker *(Learning)*                                                                       |
+| ☁️ Cloud & AWS             | AWS EC2, S3, IAM, SQS, SageMaker, Glue Jobs, Athena, API Gateway etc. *(Learning)*                                                                       |
 | 🚀 Deployment              | Streamlit Community Cloud, Docker                                                                                   |
 | ⚙️ Tools & Platforms       | Git, GitHub                                                                                                         |
 
